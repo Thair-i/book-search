@@ -37,7 +37,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 Mock-Up
 Let's start by revisiting the web application's appearance and functionality.
-As you can see in the following animation, a user can type a search term (in this case, "star wars") in a search box and the results appea
+As you can see in the following animation, a user can type a search term
 
 ![Screen Shot 2023-02-06 at 10 58 16 PM](https://user-images.githubusercontent.com/110577068/217171986-50a9746f-f472-4f58-8bfc-f1dc0e1bcc7c.png)
 ![Screen Shot 2023-02-06 at 10 58 48 PM](https://user-images.githubusercontent.com/110577068/217172012-6a02a6df-f2d4-42a5-b03e-7ca1e56f3964.png)
