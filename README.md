@@ -34,6 +34,11 @@ WHEN I click on the Remove button on a book
 THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
+
+Mock-Up
+Let's start by revisiting the web application's appearance and functionality.
+As you can see in the following animation, a user can type a search term (in this case, "star wars") in a search box and the results appea
+
 ![Screen Shot 2023-02-06 at 10 58 16 PM](https://user-images.githubusercontent.com/110577068/217171986-50a9746f-f472-4f58-8bfc-f1dc0e1bcc7c.png)
 ![Screen Shot 2023-02-06 at 10 58 48 PM](https://user-images.githubusercontent.com/110577068/217172012-6a02a6df-f2d4-42a5-b03e-7ca1e56f3964.png)
 ![Screen Shot 2023-02-06 at 10 58 59 PM](https://user-images.githubusercontent.com/110577068/217172023-744397ee-69a3-45f1-95f9-b820526d2105.png)
